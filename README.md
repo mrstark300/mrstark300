@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mrstark300
-- 👀 Intrested in python
-- 🌱 noob
-- 📫 How to reach me ...tg
+
 
 
 <!---
